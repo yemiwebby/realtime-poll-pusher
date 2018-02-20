@@ -1,0 +1,19 @@
+{
+  "name": "pusherpoll",
+  "version": "1.0.0",
+  "description": "Realtime polling point",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Oluyemi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6",
+    "pusher": "^1.5.1"
+  }
+}
