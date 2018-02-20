@@ -46,8 +46,8 @@ if (chartContainer) {
      // Enable pusher logging - don't include this in production
     //  Pusher.logToConsole = true;
      
-         var pusher = new Pusher('d04d7d334910e9b1a3e9', {
-           cluster: 'eu',
+         var pusher = new Pusher('Your Key', {
+           cluster: 'Your cluster',
            encrypted: true
          });
      
