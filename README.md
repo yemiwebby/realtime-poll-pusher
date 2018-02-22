@@ -1,2 +1,2 @@
-## A Realtime Polling App
+## A Realtime Demo Polling App
 A simple demo powered by Pusher
